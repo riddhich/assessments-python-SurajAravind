@@ -4,7 +4,7 @@ question_03 = """
 An anagram I am
 
 Given two strings s0 and s1, return whether they are anagrams of each other. Two words are anagrams when you can rearrange one to become the other. For example, “listen” and “silent” are anagrams.
-Like
+Like This
 Constraints:
 - Length of s0 and s1 is at most 5000.
 
